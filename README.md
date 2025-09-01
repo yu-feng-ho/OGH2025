@@ -5,10 +5,9 @@ Teaching Material of OpenGeoHub Summer School 2025.
 ### Slides: [Introduction of cloud-native vector format (01/09/2025)](https://docs.google.com/presentation/d/1B-Z7PPErQfGBqlhqdBn1tJ0CRov9e2XJWHi_Bio1QwA/edit?usp=sharing)
 ### Colab (Hands-on): 
 
-001.cloud-native-format-access ([link](https://colab.research.google.com/drive/13nSOejRLUyanwGtE6tWm_K9BqvVpDRVQ?authuser=1)) 
+001.cloud-native-format-access ([link](https://colab.research.google.com/drive/13nSOejRLUyanwGtE6tWm_K9BqvVpDRVQ)) 
 
-002.overlay-gedi-with-auxiliary-stratification-filtering ([link](https://colab.research.google.com/drive/13nSOejRLUyanwGtE6tWm_K9BqvVpDRVQ?authuser=1)) 
-
+002.overlay-gedi-with-auxiliary-stratification-filtering ([link](https://colab.research.google.com/drive/1uJcGMzPANoCLyjpqfrNqke3SDUB2sqc_))
 ### Supplmentary materials:
 
 - Blog: [Access OpenLandMap GEDI via Cloud-native GeoParquet](https://differ.blog/p/access-openlandmap-gedi-via-cloud-native-geo-parquet-827a51)
